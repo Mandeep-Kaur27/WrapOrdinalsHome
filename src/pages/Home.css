@@ -1200,7 +1200,6 @@
   justify-content: flex-start;
   font-size: var(--paragraph-reguler-body-16-size);
   font-family: var(--heading-bold-h3-48);
-  border-image: linear-gradient(90deg, #41bafe, #a344ff 99.99%, #6654f1);
   text-transform: uppercase;
   border: 2px solid;
 }
